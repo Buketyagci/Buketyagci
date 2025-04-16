@@ -1,7 +1,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Buket</h1>
 
-- 🌱 I’m currently learning *HTML, CSS, JavaScript*
+- 🌱 I’m currently developing projects with *Flutter*
 
 - 📫 How to reach me *buketygc2@gmail.com*
 
